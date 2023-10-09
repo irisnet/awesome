@@ -4,6 +4,8 @@ IRISnet (a.k.a IRISHUB) is an Interchain NFT Hub tailored for next-generation dA
 
 This Awesome repo provides a list of public resources, documents, and tools for IRISnet.
 
+Disclaimer: This is a community-driven repository. It does not reflect the views of IRISnet. Under no circumstances will IRISnet be liable for the impacts and losses created by using these projects.
+
 ## Contents
 - [Block Explorers](#block-explorers)
 - [Wallets](#wallets)
