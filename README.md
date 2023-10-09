@@ -22,16 +22,13 @@ This Awesome repo provides a list of public resources, documents, and tools for 
 - [IOBScan](https://irishub.iobscan.io)
 - [Mintscan](https://www.mintscan.io/iris)
 - [Ping.Pub](https://ping.pub/iris)
-- [Skynet](https://skynetexplorers.com/iris)
 - [ATOMScan](https://atomscan.com/iris-network)
-- [EZStaking](https://ezstaking.tools/irisnet)
 
 ## Wallets
 - [Rainbow](https://www.rainbow.one/)
 - [Keplr](https://www.keplr.app/)
 - [Cosmostation](https://www.cosmostation.io/wallet)
 - [Leap Wallet](https://www.leapwallet.io/cosmos)
-- [Wetez](https://www.wetez.io/wallet)
 - [Math Wallet](https://mathwallet.org/en-us/)
 - [Via Wallet](https://viawallet.com/)
 - [SyncNode](https://wallet.syncnode.ro/)
@@ -45,7 +42,6 @@ This Awesome repo provides a list of public resources, documents, and tools for 
 - [Stakewolle](https://stakewolle.com/)
 - [REStake](https://restake.app/)
 - [Ping.Pub](https://ping.pub/iris-network/staking)
-- [Skynet](https://skynetexplorers.com/iris-network/staking)
 - [01node](https://01node.com/iris-network/)
 - [Allnode](https://www.allnodes.com/iris/stake)
 
