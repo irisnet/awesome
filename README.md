@@ -71,6 +71,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Imperator](https://imperator.co/services/iris)
 - [B-Harvest](http://cosmosia6.notional.ventures:11111/irisnet/)
 - [Nodeist](https://nodeist.net/Iris/)
+- [kjnodes](https://services.kjnodes.com/mainnet/iris/)
 
 ## Public Endpoints
 - [Official Developers](https://api.irishub-1.irisnet.org/): `https://api.irishub-1.irisnet.org/`
