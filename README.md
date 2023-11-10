@@ -71,7 +71,6 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Imperator](https://imperator.co/services/iris)
 - [B-Harvest](http://cosmosia6.notional.ventures:11111/irisnet/)
 - [Nodeist](https://nodeist.net/Iris/)
-- [kjnodes](https://services.kjnodes.com/mainnet/iris/)
 - [KonsorTech](https://docs.konsortech.xyz/node/Mainnet/Irisnet)
 
 ## Public Endpoints
@@ -106,4 +105,6 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [gRPC Client](https://www.irisnet.org/docs/endpoints/grpc-client.html)
 - [Client SDKs](https://www.irisnet.org/docs/endpoints/sdk.html)
   
-
+## Other Tools
+- [RPC Scanner](https://services.kjnodes.com/mainnet/irisnet/public-rpc/) - tool which periodically scans the network and provides with list of publicly exposed RPC endpoints.
+- [Validator Slashboard](https://services.kjnodes.com/mainnet/irisnet/slashboard/) - tool designed to showcase the historical data of validator slashing incidents.
