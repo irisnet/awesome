@@ -68,10 +68,8 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Discord](https://discord.gg/bmhu9F9xbX) channel #🚰-testnet-faucet - Testnet Nyancat
 
 ## Snapshots & StateSync
-- [Imperator](https://imperator.co/services/iris)
-- [B-Harvest](http://cosmosia6.notional.ventures:11111/irisnet/)
-- [Nodeist](https://nodeist.net/Iris/)
-- [kjnodes](https://services.kjnodes.com/mainnet/iris/)
+- [Imperator](https://www.imperator.co/services/services/chain-services)
+- [High Stakes](https://tools.highstakes.ch/snapshots/iris)
 - [KonsorTech](https://docs.konsortech.xyz/node/Mainnet/Irisnet)
 
 ## Public Endpoints
