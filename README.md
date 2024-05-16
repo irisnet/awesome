@@ -46,6 +46,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Ping.Pub](https://ping.pub/iris-network/staking)
 - [01node](https://01node.com/iris-network/)
 - [Allnode](https://www.allnodes.com/iris/stake)
+- [High Stakes 🇨🇭](https://app.highstakes.ch/overview)
 
 ## Bridge Tools
 - [Blockscape](https://bridge.blockscape.network/)
@@ -72,6 +73,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [B-Harvest](http://cosmosia6.notional.ventures:11111/irisnet/)
 - [Nodeist](https://nodeist.net/Iris/)
 - [KonsorTech](https://docs.konsortech.xyz/node/Mainnet/Irisnet)
+- [High Stakes 🇨🇭](https://tools.highstakes.ch/snapshots/iris)
 
 ## Public Endpoints
 - [Official Developers](https://api.irishub-1.irisnet.org/): `https://api.irishub-1.irisnet.org/`
@@ -79,6 +81,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Notional RPC](https://rpc-irisnet-ia.cosmosia.notional.ventures/): `https://rpc-irisnet-ia.cosmosia.notional.ventures/`
 - [Terminet Node API](https://irisapi.terminet.io): `https://irisapi.terminet.io`
 - [Chain Registry](https://github.com/cosmos/chain-registry/): `https://github.com/cosmos/chain-registry/`
+- High Stakes 🇨🇭: [API](https://iris-api.highstakes.ch:1317) `https://iris-api.highstakes.ch:1317)`, [RPC](https://iris-rpc.highstakes.ch:26657) `https://iris-rpc.highstakes.ch:26657`
 
 ## Archive Nodes
 - [Peer list for irishub-1](https://github.com/irisnet/mainnet/blob/master/config/community-peers.md) -  25 Feb 2021
