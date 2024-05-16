@@ -30,6 +30,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Rainbow](https://www.rainbow.one/)
 - [Keplr](https://www.keplr.app/)
 - [Cosmostation](https://www.cosmostation.io/wallet)
+- [Galaxy Station](https://station.hexxagon.io)
 - [Leap Wallet](https://www.leapwallet.io/cosmos)
 - [Math Wallet](https://mathwallet.org/en-us/)
 - [Via Wallet](https://viawallet.com/)
@@ -40,6 +41,8 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 ## Staking Tools
 - [Keplr](https://www.keplr.app/)
 - [Cosmostation](https://www.cosmostation.io/wallet)
+- [Galaxy Station](http://station.hexxagon.io)
+- [Hexxagon](https://www.hexxagon.io/blockchains/irisnet)
 - [Citadel.one](https://app.citadel.one/login)
 - [Stakewolle](https://stakewolle.com/)
 - [REStake](https://restake.app/)
@@ -72,6 +75,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [B-Harvest](http://cosmosia6.notional.ventures:11111/irisnet/)
 - [Nodeist](https://nodeist.net/Iris/)
 - [KonsorTech](https://docs.konsortech.xyz/node/Mainnet/Irisnet)
+- [Hexxagon](https://snapshots.hexxagon.io/cosmos/irisnet/irishub-1/)
 
 ## Public Endpoints
 - [Official Developers](https://api.irishub-1.irisnet.org/): `https://api.irishub-1.irisnet.org/`
