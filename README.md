@@ -68,7 +68,7 @@ Disclaimer: This is a community-driven repository. It does not reflect the views
 - [Discord](https://discord.gg/bmhu9F9xbX) channel #🚰-testnet-faucet - Testnet Nyancat
 
 ## Snapshots & StateSync
-- [Imperator](https://www.imperator.co/services/services/chain-services)
+- [Imperator](https://www.imperator.co/services/chain-services)
 - [High Stakes](https://tools.highstakes.ch/snapshots/iris)
 - [KonsorTech](https://docs.konsortech.xyz/node/Mainnet/Irisnet)
 
